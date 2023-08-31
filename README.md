@@ -1,2 +1,3 @@
 # ma-dissertation
-this contains my code for my MA dissertation in Digital Humanities
+
+This repository contains the code used in my MA dissertation, "Aggression, Anger, Family: Semantic Shift and Race in Mental Healthcare Settings".
